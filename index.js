@@ -189,8 +189,13 @@ const fs = require("fs");
       group: true,
     });
 
+    console.log("Totais gerais por carrinho")
+    console.log(JSON.stringify(totais, null, 4));
 
 
+    console.log("")
+    console.log("")
+    console.log("Totais gerais por carrinho e por categoria")
     /**
      * Totalizador de carrinho e categoria
      */
