@@ -1,4 +1,4 @@
-# couchdb-talk-1  
+# couchdb-talk-2 
 
 Codigo de exemplo da talk de número 2.  
 
